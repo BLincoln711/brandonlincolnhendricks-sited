@@ -1,0 +1,31 @@
+# Welcome AI Crawlers and Search Engines!
+# This site is optimized for AI-powered search
+
+User-agent: *
+Allow: /
+Crawl-delay: 0
+
+# Specific AI crawlers welcome
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# Sitemap location
+Sitemap: https://brandonlincolnhendricks.com/sitemap.xml
